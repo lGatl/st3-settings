@@ -1,0 +1,42 @@
+
+	{
+		"align_content_highlight_bar": true,
+		"content_highlight_bar": true,
+		"show_in_minimap": true,
+	  /*"match_only_adjacent": true,*/
+	  "bracket_styles": {
+	    "default": {
+	      "icon": "dot",
+	      "color": "entity.name.class",
+	      "style": "underline"
+	    },
+	    "unmatched": {
+	      "icon": "question"
+	    },
+	    "curly": {
+	      "icon": "curly_bracket"
+	    },
+	    "round": {
+	      "icon": "round_bracket"
+	    },
+	    "square": {
+	      "icon": "square_bracket"
+	    },
+	    "angle": {
+	      "icon": "angle_bracket"
+	    },
+	    "tag": {
+	      "icon": "tag"
+	    },
+	    "single_quote": {
+	      "icon": "single_quote"
+	    },
+	    "double_quote": {
+	      "icon": "double_quote"
+	    },
+	    "regex": {
+	      "icon": "regex"
+	    }
+	  }
+	}
+

@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Auto Semi-Colon",
+		"Babel",
+		"BetterFindBuffer",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Console Wrap",
+		"CSSFontFamily",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"GitGutter",
+		"GitSavvy",
+		"GotoDocumentation",
+		"Highlighter",
+		"jQuery",
+		"JsFormat",
+		"JSHint",
+		"LiveReloadMake",
+		"Package Control",
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeLinter-eslint",
+		"Terminal",
+		"Theme - Afterglow"
+	],
+	"repositories":
+	[
+		"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json\nhttps://raw.github.com/Grafikart/ST3-LiveReload/master/package.json",
+		"https://github.com/titoBouzout/Tag.git"
+	]
+}

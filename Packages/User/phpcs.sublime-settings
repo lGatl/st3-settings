@@ -1,0 +1,20 @@
+{
+  "extensions_to_execute": ["php", "module", "inc", "install", "class", "test"],
+  "phpcs_sniffer_run": true,
+  "phpcs_executable_path": "/usr/bin/phpcs",
+  "phpcs_show_errors_on_save": false,
+  "phpcs_additional_args": {
+    "--standard": "/home/XXX/.drush/modules/coder/coder_sniffer/Drupal",
+    "-w": "",
+    "--extensions": "module,inc",
+    "--ignore": "local.php,settings.php",
+  },
+  "php_cs_fixer_on_save": false,
+  "php_cs_fixer_show_quick_panel": false,
+  "php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
+  "phpmd_run": true,
+  "phpmd_executable_path": "/usr/bin/phpmd",
+  "phpmd_additional_args": {
+    "cleancode,codesize,controversial,design,naming,unusedcode": "",
+  }
+}
