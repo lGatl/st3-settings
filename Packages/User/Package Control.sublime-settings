@@ -24,13 +24,15 @@
 		"jQuery",
 		"JsFormat",
 		"JSHint",
+		"JsPrettier",
 		"LiveReloadMake",
 		"Package Control",
 		"Phpcs",
 		"SideBarEnhancements",
 		"SublimeLinter-eslint",
 		"Terminal",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"TypeScript"
 	],
 	"repositories":
 	[

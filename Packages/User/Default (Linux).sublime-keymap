@@ -1,5 +1,5 @@
 [
-	{ "keys": ["ctrl+shift+!"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["command+shift+:"], "command": "toggle_comment", "args": { "block": true } },
   { "keys": ["ctrl+alt+x"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
   { "keys": ["ctrl+alt+!"], "command": "sublimelinter_toggle_linter", "args": {"which": "all"}},
 

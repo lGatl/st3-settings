@@ -3,7 +3,7 @@
 	"auto_complete_delay": 1000,
 	"auto_complete_selector": "source - (comment, string.quoted), meta.tag - punctuation.definition.tag.begin",
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Zeus-Theme-master/Sublime Text/Zeus-Sublime-Text-Darker.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
 	"default_line_ending": "unix",
 	"detect_slow_plugins": false,
 	"drag_text": false,
@@ -29,11 +29,16 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"ActionScript",
 		"AppleScript",
+		"DocBlockr",
 		"Gist",
+		"Go",
+		"GotoDocumentation",
 		"JSHint",
 		"LiveReloadMake",
 		"ST3-LiveReload-master",
+		"TypeScript",
 		"Vintage"
 	],
 	"index_exclude_patterns":
